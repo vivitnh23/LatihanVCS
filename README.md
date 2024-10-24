@@ -38,4 +38,3 @@ bilangan terbesar : 123
 adanya variable max di isi dengan nilai 0, setelah itu terhadap variable inputab dengan nama bilangan, jika kondisi bilangan tidak 
 sama dengan 0 maka cari bilangan lebih dari max di set dengan bilangan tersebut. jika bilangan lebih kecil dari max maka bilangan input
 kembali sehingga akan menghasilkan bilangan terbesar dari operasi tersebut.
-to
